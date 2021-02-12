@@ -16,6 +16,7 @@ Menu this week:
   <li>Wednesday: Chicken and chips and chili and pineapple
   <li>Thursday: Turkey with brussels sprout and mashed potatoes
   <li>Friday: Lamb and cabbage and mushrooms and carrots
+  <li>Saturday: Pulled pork and potatoes 
 </ul>
 
 <i>Notes: 
